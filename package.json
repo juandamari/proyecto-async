@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-async",
+  "version": "1.0.0",
+  "description": "proyecto basico de una pagina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandamari/proyecto-async.git"
+  },
+  "author": "juan david marin juan_da-mari@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juandamari/proyecto-async/issues"
+  },
+  "homepage": "https://github.com/juandamari/proyecto-async#readme"
+}
