@@ -4,7 +4,7 @@
   "description": "proyecto basico de una pagina",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juandamari/proyecto-async/issues"
   },
-  "homepage": "https://github.com/juandamari/proyecto-async#readme"
+  "homepage": "https://github.com/juandamari/proyecto-async#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
