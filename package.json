@@ -18,5 +18,9 @@
   "homepage": "https://github.com/juandamari/proyecto-async#readme",
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1"
   }
 }
